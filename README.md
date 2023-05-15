@@ -31,6 +31,9 @@ what I could use at the time.
 > Broth.html - is the ingredients for Chicken Broth 
 > Contact.html - is the my contact page. 
 
-> Every page has an image and at least two (2) differnet header "h1" and "h2"
+> Every page has an image and at least two (2) differnet header h1 and h2.  The broth page uses 
+a table to display the ingredient list. And last but not lease the contact page utilizes the Form to 
+input data into the system. Please note the links on the Blogspot page for Ingredients and the link 
+in the last paragraph to TasteofHome.com. 
 
 
