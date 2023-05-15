@@ -31,6 +31,6 @@ what I could use at the time.
 > Broth.html - is the ingredients for Chicken Broth 
 > Contact.html - is the my contact page. 
 
-> Every page has an image and at least two (2) differnet header "<h1>" and "<h2>"
+> Every page has an image and at least two (2) differnet header "h1" and "h2"
 
 
